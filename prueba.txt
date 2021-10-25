@@ -1,4 +1,4 @@
 Hola, esto es un texto plano.
 
 
-Y esta línea es el primer cambio al texto original.
+Aquí aparecerá la historia de Daniel
